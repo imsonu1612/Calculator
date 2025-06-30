@@ -51,6 +51,10 @@ button.zero {
   grid-column: span 2;
 }
 
-h3{
-  text-align: left;
+.top-left {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: black;
+  font-family: Arial, sans-serif;
 }
